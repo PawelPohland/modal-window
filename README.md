@@ -1,11 +1,15 @@
-# Modal Window
+# Modal (Popup) Window
 
 Display modal window.
 
 ## Features
 
-- overlay behind modal window
-- modal window contains header, body and footer sections
+- display modal (popup) window
+- modal window contains overlay that blurs rest of the page
+- modal window consists of header, body and footer sections
+- close window by clicking on "x" button (close button)
+- close window by clicking on onverlay
+- close window by pressing ESCAPE key on keyboard
 
 ## Technologies used
 
